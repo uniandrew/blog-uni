@@ -1,2 +1,15 @@
 # blog-uni
-Es un proyecto dedicado al crecimiento de comunidad universitaria a traves de un blog de eventos
+[Descripción del proyecto]
+
+[Instalación]
+  -Requisitos
+  -Version
+  -Encargados del proyecto
+  
+[Cómo funciona]
+
+[Documentación]
+
+[RoadMap]
+
+[Licencia]
